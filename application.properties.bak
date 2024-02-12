@@ -1,2 +1,1 @@
 test=1.99
-knbill.rest.truststorelocation=classpath:/keystore/ssl/rest-truststore.jks
